@@ -24,7 +24,6 @@ h1{
 }
 
 .fa-trash {
-
 }
 
 ul {
@@ -59,8 +58,10 @@ span {
 	}
 
 li:hover span {
+	display: inline-block;
+	height:50px;
 	width:40px;
-	opacity: 1.0;
+    opacity: 1.0;
 }
 
 input {
